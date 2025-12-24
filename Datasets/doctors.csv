@@ -1,0 +1,201 @@
+doctor_id,doctor_name,specialization,experience_years,hospital_name,city
+1,Michelle Rowe,Orthopedics,17,Gillespie-Flores Hospital,New Michaelburgh
+2,Mr. James Singleton MD,Oncology,34,Wagner and Sons Hospital,Amyport
+3,Travis Thomas,General Physician,8,"Carroll, Campos and Burton Hospital",Mcclurestad
+4,Briana Goodwin,Cardiology,12,Wilson-Kelly Hospital,Ryanport
+5,Kenneth Donovan,Oncology,28,"Michael, Phillips and Brooks Hospital",Costahaven
+6,Sarah Shelton,Orthopedics,2,Reyes-Solomon Hospital,New Danielle
+7,Frank Cole,Pediatrics,2,Mitchell PLC Hospital,Rothstad
+8,Donna Johnson,Pediatrics,13,"Martinez, Black and Jones Hospital",Pattersonmouth
+9,Christopher Ward,Pediatrics,1,Carlson and Sons Hospital,Chadborough
+10,Joseph Marks,Pediatrics,22,Li Inc Hospital,New Glenn
+11,Mrs. Alicia Allen,Pediatrics,2,Brown-Williams Hospital,New Willie
+12,Pamela Miranda,Dermatology,13,Baker Group Hospital,Allisonhaven
+13,Stephanie Roach,Cardiology,7,Kelly Ltd Hospital,Chandlerhaven
+14,Brittany Morales,General Physician,20,"Lopez, Richardson and Savage Hospital",Sheilamouth
+15,Margaret Travis,Dermatology,3,"Flores, Medina and Pierce Hospital",East Kimberly
+16,Joshua Williams,Orthopedics,29,Mendez PLC Hospital,Fieldston
+17,Amanda Galloway,Orthopedics,16,Little-Richardson Hospital,Danielbury
+18,Marilyn Thomas,Dermatology,29,Martin-Dickerson Hospital,Davidfort
+19,Denise Allen,Dermatology,12,Santiago Ltd Hospital,Lake Meredithbury
+20,Jason Bradley,General Physician,34,Richardson-Hicks Hospital,East Brian
+21,Terry Palmer,Cardiology,3,Stewart-Becker Hospital,Howardburgh
+22,Jordan Guerra,Oncology,28,Barnes-Shaw Hospital,North Lauraville
+23,Amber Durham,Dermatology,1,Martin-Hill Hospital,New Denise
+24,Alyssa Hall,Orthopedics,13,Edwards-Williams Hospital,Tarastad
+25,Brian Carey,Neurology,19,"Reed, Jackson and Sanchez Hospital",New Robertshire
+26,Alex Robertson,Orthopedics,18,Tyler PLC Hospital,Paulton
+27,Leslie Moore,Cardiology,20,Zuniga-Cortez Hospital,New Dwaynestad
+28,Kimberly Hernandez,Neurology,31,Fowler-Holt Hospital,East Ashley
+29,Crystal Martin,Neurology,24,"Davis, Stewart and Estes Hospital",Jordanchester
+30,Christina Best,Pediatrics,31,"Taylor, Schwartz and Carroll Hospital",East Jeffrey
+31,Patricia Fleming,Dermatology,9,"Morales, Marks and Pena Hospital",East Meghanfurt
+32,Michael Jackson,Orthopedics,31,Martinez PLC Hospital,North Manuelmouth
+33,Laurie Edwards,Oncology,36,Eaton-Knapp Hospital,Holtland
+34,Jaime Fernandez,General Physician,12,"Price, Lowery and Russell Hospital",Coxfort
+35,Kara Allen,Oncology,35,Bradshaw LLC Hospital,Jonesmouth
+36,Paul Perez,Dermatology,3,Ellis Ltd Hospital,Edwardsmouth
+37,Kristina Williams,Cardiology,15,"Smith, Brandt and Lopez Hospital",Barbaraport
+38,Sharon Munoz,Neurology,2,Martin and Sons Hospital,Stephaniebury
+39,Jimmy Hampton,Orthopedics,26,Tran-Perry Hospital,North Keith
+40,Amanda Hill,General Physician,8,"Mcdowell, Thomas and Patterson Hospital",East Samanthamouth
+41,Shannon Pruitt,Dermatology,39,"Taylor, Jenkins and Clements Hospital",North Vickie
+42,Brianna Allen,Cardiology,36,"Taylor, Hernandez and Hernandez Hospital",North Anthony
+43,Megan Orr,General Physician,29,"Gray, Wilkins and Williams Hospital",South Christopher
+44,Diana Davila,Neurology,37,Gonzalez Group Hospital,Smithbury
+45,Mindy Herrera,General Physician,6,Smith and Sons Hospital,Port Amyburgh
+46,Alexis Rivers,Oncology,30,Dudley-Kirk Hospital,New Susanburgh
+47,Edward Lane,Pediatrics,9,Knapp LLC Hospital,Cynthiabury
+48,Samantha Yoder,Neurology,2,Mendoza-Guerrero Hospital,Shannonmouth
+49,Brian Flores,Pediatrics,12,Smith Ltd Hospital,Candicefurt
+50,Elizabeth Castillo,Pediatrics,36,Calhoun-Johnson Hospital,New Albertberg
+51,Cheryl Terry,Oncology,9,Palmer Ltd Hospital,Harveyside
+52,James Cox,Oncology,2,Meyer LLC Hospital,Joannashire
+53,Lauren Guerra,Oncology,4,Morris-Hubbard Hospital,Lake Ericabury
+54,Tracy Rowe,Orthopedics,34,"Baker, Allen and Crane Hospital",Cynthiamouth
+55,Anthony Simmons,Orthopedics,23,Williams Group Hospital,Jordanborough
+56,Christopher Roberts,Neurology,3,"Waller, Perry and Jones Hospital",Josechester
+57,Kaitlin Chavez,Oncology,11,"Cook, Brown and Huynh Hospital",Stephaniestad
+58,Robert Vega,Neurology,36,Ramsey LLC Hospital,Lake Emily
+59,Karen May,Pediatrics,24,Williams-Stuart Hospital,Rodriguezton
+60,Angela Smith,Cardiology,23,Malone-Young Hospital,South Ryanstad
+61,Frank Davis,General Physician,19,Hall Group Hospital,South Michaelfurt
+62,Sabrina Richmond,Pediatrics,24,"Kent, Robertson and Edwards Hospital",Tiffanyburgh
+63,Henry Huffman,Neurology,5,Warner and Sons Hospital,Browntown
+64,Richard Thomas,Neurology,36,Mann-Hansen Hospital,Heatherstad
+65,Victoria Bailey,Cardiology,13,"Cervantes, Flowers and Jackson Hospital",North Angela
+66,Beth Smith,Oncology,2,Hernandez-Dean Hospital,Lake Alfred
+67,Ricky Mercado,Dermatology,9,Manning PLC Hospital,Stewartville
+68,Kristina Davis,General Physician,37,Martinez LLC Hospital,East Mistyfurt
+69,Julia Terry,Oncology,19,Arellano LLC Hospital,Port Nicole
+70,Gina Johnson,Orthopedics,4,Young-Stevens Hospital,West Joshuabury
+71,Amanda Mayo,Orthopedics,15,"Mckenzie, Harris and Rodriguez Hospital",Pamhaven
+72,Brooke Jefferson,Dermatology,27,Barnes-Fuentes Hospital,Aaronshire
+73,Cindy Murphy,Cardiology,25,Griffin-Curry Hospital,West Joshuaton
+74,Thomas Frey,Cardiology,16,"Perez, Cummings and Anderson Hospital",Port Melissafort
+75,Bradley Anderson,Oncology,28,"Palmer, Smith and Smith Hospital",Snyderland
+76,Brian Mcneil,Neurology,38,Williams Inc Hospital,Hernandezshire
+77,Patricia Warren,Pediatrics,23,Rodriguez-Williams Hospital,Matthewview
+78,Patrick Moore,General Physician,38,Gonzalez-Alvarez Hospital,Lake Jessicabury
+79,Anna Young,Orthopedics,29,Hamilton-Davis Hospital,Holderfurt
+80,Jared Hale,General Physician,38,"Dyer, Chapman and Smith Hospital",North Stevenmouth
+81,David Miller,Cardiology,14,"Williams, Roberts and Burke Hospital",South Davidfurt
+82,Cassandra Thomas,Orthopedics,35,Marquez-Parrish Hospital,Steinstad
+83,Brian Tran,Dermatology,39,"Nixon, Cowan and Jackson Hospital",East Jonathanton
+84,Christina Daniels,Dermatology,37,"Richardson, Cohen and Mason Hospital",West Devin
+85,Scott Johnson,Cardiology,3,Walter-Sanders Hospital,North Alexandershire
+86,Tina Pham,General Physician,25,Clark Ltd Hospital,Gregview
+87,Tricia Dixon,Cardiology,30,"Sparks, Matthews and Smith Hospital",Gabrielton
+88,Alex Hayes,Orthopedics,24,"Carter, Moss and Richards Hospital",West Matthewhaven
+89,James Hicks,General Physician,24,Weaver-Webb Hospital,Johnnyfurt
+90,Shawn Russo,Neurology,39,Morales-Beard Hospital,Port Amy
+91,Gary Lane,Orthopedics,39,"Vasquez, Hurst and Rivera Hospital",Kelleyview
+92,Chad Bell,Neurology,28,"Rivera, Burke and Williams Hospital",Lake Calebhaven
+93,Christopher Patrick,Pediatrics,18,Perez-Evans Hospital,Bradleyborough
+94,Todd Crawford,General Physician,2,Garcia Inc Hospital,Meganview
+95,Steven Ashley,Orthopedics,3,Thompson-Gordon Hospital,Port Joseph
+96,Charles Rivera,Oncology,12,Munoz Ltd Hospital,Christianview
+97,Dwayne Turner,Orthopedics,24,Evans Group Hospital,West Ashleytown
+98,Lisa Sosa,Pediatrics,7,Middleton-Aguirre Hospital,Wayneshire
+99,Amber Roach,Neurology,29,Porter Group Hospital,New Maryport
+100,Kimberly Kim,Cardiology,37,"Martin, Young and Sims Hospital",Brianland
+101,John Martinez,Oncology,23,Morrison-Medina Hospital,West Kara
+102,James Montgomery,Pediatrics,39,Barton and Sons Hospital,Bradfordborough
+103,Jerry Stephens,Orthopedics,7,Pham PLC Hospital,Hardingville
+104,James Edwards,Cardiology,24,Ellis-Ho Hospital,New Barbara
+105,Kristin Murray,Cardiology,37,Le-Waters Hospital,Bowmanport
+106,Sheena Bryant,Oncology,19,"Davis, Campbell and Wallace Hospital",Adamshaven
+107,Jessica Valenzuela,Orthopedics,15,Zamora Inc Hospital,Maryshire
+108,Robert Moody,Dermatology,12,"Mclaughlin, Pace and Taylor Hospital",Dickersonport
+109,Jeffrey Ward,Orthopedics,19,Jacobs-Beard Hospital,Oliviatown
+110,Paul Middleton,Cardiology,19,Alvarez and Sons Hospital,Taylorborough
+111,Laura Graham,Oncology,6,Black-Cooke Hospital,Ellenfort
+112,Charles Preston,Neurology,8,Roberts-Morris Hospital,Christopherside
+113,Amanda Livingston,Pediatrics,11,"White, Alexander and Rodriguez Hospital",Codytown
+114,Crystal Clark,Cardiology,19,"Walker, Walker and Haynes Hospital",Murilloview
+115,Karen Hester,Neurology,33,Fields-White Hospital,West Shannonstad
+116,Susan David,Cardiology,24,Brewer Ltd Hospital,West Sharonmouth
+117,Katherine Anderson,Dermatology,7,Orr-Mora Hospital,New Jonathan
+118,Kathleen Tucker,Cardiology,26,"Anderson, Castro and Harris Hospital",North Deborah
+119,Jason Wood,Orthopedics,14,"Gray, Smith and Delacruz Hospital",Julieton
+120,Andrea Jordan,Orthopedics,13,Robinson-Adkins Hospital,Davidstad
+121,Mark Spencer,General Physician,13,"Bradley, Wilson and Michael Hospital",Hubbardland
+122,Dr. Austin Jacobson,Orthopedics,35,"Fuentes, Duran and Williams Hospital",Lake Ronald
+123,John Jones,Orthopedics,7,"Brooks, Smith and Keith Hospital",Barbarastad
+124,James Sullivan,Dermatology,34,Rogers-Harrell Hospital,Patelhaven
+125,Jamie Sweeney,Cardiology,2,Martinez and Sons Hospital,Port Justinchester
+126,Lindsay Valdez,Oncology,12,"Hahn, Garcia and Lopez Hospital",Lake Cynthiaburgh
+127,Jeff Garner PhD,Oncology,20,"King, Martinez and Wood Hospital",Berryville
+128,Edward Johnson,Neurology,10,Roberson-Burns Hospital,Brandyburgh
+129,Preston Hunter,Pediatrics,10,Browning Group Hospital,Port Josephshire
+130,Michael Edwards,Neurology,16,"Cardenas, Massey and Patel Hospital",Lake Brianside
+131,Jeffrey Santos,Pediatrics,24,"Lester, Lin and Allen Hospital",Tinastad
+132,Haley Chan,Orthopedics,10,Henderson-Ward Hospital,Melissaside
+133,Rita Stein,General Physician,35,"Ward, Alexander and Jenkins Hospital",West Richard
+134,Susan Gallegos,Neurology,16,Dominguez and Sons Hospital,Brucemouth
+135,Joseph Cohen,General Physician,8,Case-Hanson Hospital,Christophertown
+136,Corey Fuller,Cardiology,31,Jimenez Inc Hospital,North Brian
+137,Amber Shannon,Oncology,37,Edwards-Gonzales Hospital,Rodriguezberg
+138,Toni Mendoza,Neurology,36,Flynn LLC Hospital,Heatherfort
+139,Nancy Sanchez,Cardiology,32,Gomez-Dennis Hospital,Port Janetton
+140,Andre Anderson,General Physician,25,Grimes-Martinez Hospital,South Malloryside
+141,Stephen Stein,Oncology,14,Blair Inc Hospital,Port Ryan
+142,David Oliver,General Physician,23,Graves-Hayes Hospital,Michaelstad
+143,Heather Santana,Pediatrics,14,Marshall and Sons Hospital,Rachelberg
+144,Lynn White,Oncology,6,Taylor-Hunt Hospital,Jacobfurt
+145,Alexis Brown,Orthopedics,6,"Mullins, White and Miller Hospital",Tiffanyville
+146,Dwayne Williams,Oncology,3,Keith LLC Hospital,West Sarahberg
+147,Jason Richardson,Neurology,36,"Williams, Willis and Glover Hospital",New Kevin
+148,Jonathan Robertson,Neurology,7,Higgins Ltd Hospital,Hortonborough
+149,Heather Williams,Oncology,39,Perez-Brown Hospital,Gomezview
+150,Brian Jacobs,Orthopedics,23,Smith LLC Hospital,Suttonland
+151,Kelly Rodriguez,Dermatology,19,Roy-Velazquez Hospital,Port Emily
+152,Marilyn Miller,Oncology,40,"Cox, Santiago and Rhodes Hospital",Mariaborough
+153,Patrick Warren,Neurology,38,"Jacobs, Powers and Greer Hospital",Rebeccashire
+154,Michael Hughes,Pediatrics,34,Johnson and Sons Hospital,West Renee
+155,Debbie Martinez,Cardiology,35,Moore Group Hospital,New Matthewbury
+156,Deborah Smith,General Physician,18,Harris PLC Hospital,Port Elizabeth
+157,Paige Simon,Orthopedics,13,Hill-Huynh Hospital,East Calvinport
+158,Kathy Ochoa,General Physician,8,Johnson-Matthews Hospital,Smithburgh
+159,Monica Jones,Dermatology,29,Carlson Group Hospital,Stevenmouth
+160,Gerald Acosta,Orthopedics,2,Sullivan Group Hospital,Lake Brandonberg
+161,Megan Mcguire,Pediatrics,26,Sawyer-Contreras Hospital,Monroemouth
+162,Sherry Marsh,Orthopedics,13,Dickson-Guerra Hospital,Erikview
+163,Joseph Dean,General Physician,22,"Fernandez, White and Terrell Hospital",Jasonside
+164,Steven Chavez,General Physician,10,Perez Ltd Hospital,South Angela
+165,Collin Lowe,Orthopedics,21,"Ward, Clark and Brandt Hospital",Garyview
+166,David Reyes,Orthopedics,13,Miller-Lewis Hospital,South Donald
+167,Samantha Gaines,Cardiology,32,Barnett-Hopkins Hospital,Hillchester
+168,Alan Bennett,Orthopedics,38,Chapman-Santiago Hospital,Lake Susanfort
+169,Christian Kim,Dermatology,18,"Reeves, Gross and Robinson Hospital",South Robertoshire
+170,Michelle Hickman,Neurology,13,"Woods, Johnston and Smith Hospital",Stacieburgh
+171,Ryan Lopez,Neurology,27,"Wood, Green and Dixon Hospital",Theresafurt
+172,Keith Medina,Dermatology,33,"Mcdonald, Smith and Weiss Hospital",North Marilynchester
+173,Christopher Thompson,Dermatology,1,Johnson-Turner Hospital,Lake Jameston
+174,Luis Hughes,Oncology,28,Flores-Martin Hospital,West Steven
+175,Andrew Chavez,Cardiology,10,Foley-Ramirez Hospital,Evanland
+176,Melissa Rodriguez,Orthopedics,13,Wilson-Reed Hospital,Elliottfort
+177,William Parker,Pediatrics,16,Davies PLC Hospital,North Brendan
+178,Katherine Becker,Orthopedics,26,"Eaton, Martin and Juarez Hospital",New Kylehaven
+179,Kevin Jackson,Neurology,19,Townsend and Sons Hospital,Wilsonstad
+180,Brandon Arnold,General Physician,11,"Sanders, Perry and Johnson Hospital",New Lindsaymouth
+181,Brian Graves,General Physician,34,Elliott-Holland Hospital,South Brianmouth
+182,Chad Bernard,Pediatrics,28,Ferguson-Crawford Hospital,Starkland
+183,Dr. Christopher Drake,Orthopedics,25,Gallegos Ltd Hospital,Calvintown
+184,Sabrina Taylor,Cardiology,5,Le-Holt Hospital,North Joseph
+185,John Walker,Dermatology,5,"Roberts, Hall and Davis Hospital",Robertmouth
+186,Brandi Brady,Neurology,20,Mills-Banks Hospital,East Christopherborough
+187,James Taylor,Pediatrics,8,"Pierce, Schultz and Hicks Hospital",Port Carrie
+188,Sean Stuart,General Physician,14,Butler Inc Hospital,Troyberg
+189,Brittany Davis,Cardiology,4,Villegas-Sims Hospital,Danielstad
+190,Jessica Vega,Oncology,33,"Brady, Oliver and Morrison Hospital",South Christopher
+191,Katherine Frazier,Orthopedics,14,Phillips-Shaffer Hospital,South Elizabeth
+192,Kimberly Cox,Cardiology,11,King-Lang Hospital,Melissatown
+193,Kimberly Hernandez,Dermatology,25,Armstrong and Sons Hospital,Mitchellton
+194,Michael Wilcox,Pediatrics,5,"Price, Lopez and Meyer Hospital",Port Tiffanymouth
+195,Tanya Morris,General Physician,17,"Martin, Russell and Salazar Hospital",Port Kellyfort
+196,Melissa Phelps,Dermatology,16,Coleman-Bennett Hospital,Grahammouth
+197,Sharon Olson,Cardiology,12,"Hale, Cooper and Gibson Hospital",South Brianburgh
+198,Gordon Young,General Physician,4,"Jones, Cruz and Strong Hospital",South Dawn
+199,Tina Murray,Cardiology,38,"Garza, Rubio and Rogers Hospital",Alexanderfurt
+200,Pamela Horton,General Physician,20,"Young, Williams and Kent Hospital",West Tina

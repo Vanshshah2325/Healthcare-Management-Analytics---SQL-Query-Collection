@@ -1,0 +1,301 @@
+visit_id,patient_id,doctor_id,visit_date,diagnosis,treatment,bill_amount
+1,220,97,2025-03-10,Fracture,Follow-up,39741.21
+2,99,127,2024-08-05,Flu,Lifestyle Change,16987.71
+3,144,145,2023-04-02,Skin Rash,Follow-up,46185.4
+4,86,45,2023-04-07,Hypertension,Therapy,17002.4
+5,229,132,2023-03-27,Flu,Lifestyle Change,20077.21
+6,99,130,2023-07-16,Fracture,Medication,9608.92
+7,222,71,2023-06-15,COVID-19,Follow-up,24900.58
+8,221,75,2024-11-08,Fracture,Follow-up,38602.27
+9,172,122,2023-12-15,COVID-19,Follow-up,41704.37
+10,15,31,2025-03-08,Diabetes,Surgery,42282.86
+11,62,125,2025-05-13,Allergy,Therapy,15917.83
+12,155,58,2025-04-11,Diabetes,Therapy,24358.36
+13,28,95,2023-09-22,Diabetes,Lifestyle Change,41200.36
+14,49,136,2023-11-08,Flu,Follow-up,2551.84
+15,32,21,2025-03-23,Hypertension,Lifestyle Change,36085.01
+16,212,22,2023-03-11,COVID-19,Therapy,25327.58
+17,116,103,2023-03-29,Asthma,Therapy,20556.1
+18,110,5,2023-05-15,Flu,Follow-up,4772.08
+19,65,43,2025-01-19,Asthma,Follow-up,44581.84
+20,41,158,2024-09-11,Flu,Surgery,29721.75
+21,99,38,2024-02-26,COVID-19,Lifestyle Change,22827.8
+22,209,78,2022-11-14,Skin Rash,Therapy,23656.16
+23,81,195,2025-04-24,Asthma,Follow-up,36732.79
+24,164,19,2023-12-29,Skin Rash,Medication,17047.29
+25,77,6,2024-04-21,Asthma,Lifestyle Change,15627.26
+26,221,65,2025-01-22,COVID-19,Therapy,37148.8
+27,134,33,2024-07-06,Skin Rash,Lifestyle Change,39860.46
+28,4,91,2022-10-18,COVID-19,Follow-up,707.66
+29,81,113,2022-10-09,Allergy,Follow-up,13991.77
+30,23,152,2024-01-12,Hypertension,Therapy,30899.76
+31,70,57,2022-10-19,Fracture,Lifestyle Change,25777.51
+32,157,17,2023-07-12,COVID-19,Lifestyle Change,6534.96
+33,120,58,2022-12-06,Flu,Follow-up,45792.32
+34,41,200,2024-02-23,Hypertension,Follow-up,49672.14
+35,78,93,2025-04-22,Skin Rash,Lifestyle Change,44687.24
+36,82,22,2024-09-29,Skin Rash,Follow-up,3842.54
+37,63,75,2025-02-25,Diabetes,Follow-up,20200.98
+38,238,168,2023-09-12,Diabetes,Lifestyle Change,20197.76
+39,198,131,2024-01-13,Hypertension,Follow-up,7563.21
+40,48,13,2023-05-16,Fracture,Therapy,26495.87
+41,246,64,2025-02-22,Allergy,Surgery,6025.68
+42,31,31,2022-12-27,Hypertension,Medication,17627.99
+43,167,145,2022-09-15,COVID-19,Follow-up,29170.64
+44,107,25,2024-02-24,Asthma,Medication,3698.97
+45,160,9,2025-01-22,Asthma,Therapy,48993.84
+46,240,98,2025-03-20,Flu,Lifestyle Change,40744.14
+47,138,29,2022-12-23,Allergy,Medication,38288.32
+48,236,132,2023-09-12,Hypertension,Medication,4905.73
+49,225,144,2023-03-27,Fracture,Surgery,23340.57
+50,218,104,2023-03-23,COVID-19,Medication,4680.18
+51,245,177,2024-05-13,Fracture,Therapy,11590.43
+52,41,84,2024-04-10,Asthma,Follow-up,5187.37
+53,84,166,2023-04-19,Fracture,Lifestyle Change,12528.34
+54,225,37,2023-12-24,Fracture,Surgery,11029.58
+55,93,124,2022-10-07,COVID-19,Surgery,3909.43
+56,153,76,2025-02-16,Allergy,Lifestyle Change,42444.69
+57,45,152,2025-01-27,COVID-19,Surgery,11303.89
+58,106,192,2024-07-09,Allergy,Therapy,45641.13
+59,89,139,2024-11-23,COVID-19,Lifestyle Change,14034.23
+60,115,24,2025-02-13,Fracture,Lifestyle Change,25767.43
+61,108,157,2024-12-25,Fracture,Therapy,17470.23
+62,95,33,2024-09-20,COVID-19,Medication,36160.15
+63,174,53,2023-10-04,Skin Rash,Therapy,48434.75
+64,184,87,2022-11-20,Diabetes,Follow-up,39982.81
+65,240,116,2024-09-29,Hypertension,Therapy,14363.37
+66,47,108,2023-12-29,Diabetes,Therapy,2259.86
+67,86,112,2024-12-30,Diabetes,Follow-up,32336.79
+68,48,63,2024-10-18,Asthma,Lifestyle Change,4943.34
+69,126,82,2023-05-29,Allergy,Therapy,33020.86
+70,8,84,2024-06-09,Allergy,Lifestyle Change,32739.2
+71,119,69,2024-01-04,Skin Rash,Therapy,6549.97
+72,174,134,2025-04-29,Skin Rash,Surgery,41204.47
+73,153,160,2024-04-23,Fracture,Surgery,2016.45
+74,105,185,2023-05-14,Asthma,Surgery,22584.3
+75,89,122,2024-06-30,Allergy,Follow-up,49719.96
+76,50,14,2022-11-07,Hypertension,Lifestyle Change,29096.23
+77,159,5,2025-04-22,Asthma,Medication,48857.31
+78,245,100,2024-11-03,Hypertension,Follow-up,26070.21
+79,3,6,2022-09-18,Allergy,Surgery,49388.09
+80,31,127,2024-05-19,Flu,Medication,35545.47
+81,6,196,2024-03-25,Flu,Medication,26285.56
+82,231,126,2024-04-13,Diabetes,Follow-up,2145.01
+83,145,169,2022-11-07,Hypertension,Therapy,44463.51
+84,226,184,2022-10-10,Flu,Follow-up,27168.56
+85,126,110,2025-08-31,Flu,Follow-up,39595.68
+86,188,128,2024-03-28,Flu,Medication,14205.74
+87,63,6,2025-04-27,Allergy,Surgery,47284.63
+88,182,138,2024-03-01,Skin Rash,Medication,11480.27
+89,1,7,2025-07-06,Asthma,Lifestyle Change,45681.14
+90,183,97,2024-12-10,Skin Rash,Follow-up,37136.98
+91,229,27,2023-07-09,Allergy,Medication,24305.31
+92,121,94,2023-04-19,Skin Rash,Therapy,48052.24
+93,25,192,2024-12-09,Asthma,Medication,28954.08
+94,160,9,2024-01-15,COVID-19,Follow-up,33687.94
+95,130,139,2024-04-03,Diabetes,Lifestyle Change,47656.42
+96,81,86,2024-01-11,Hypertension,Follow-up,12125.43
+97,243,47,2023-03-18,Allergy,Medication,34833.92
+98,147,106,2023-07-25,Hypertension,Medication,34047.11
+99,87,161,2025-02-25,Diabetes,Follow-up,33384.69
+100,220,120,2023-02-10,COVID-19,Lifestyle Change,36340.29
+101,159,81,2023-02-25,Diabetes,Follow-up,47113.75
+102,183,86,2025-08-11,Hypertension,Follow-up,43679.18
+103,246,70,2023-08-08,Diabetes,Lifestyle Change,10246.07
+104,232,113,2024-09-04,Diabetes,Therapy,16077.71
+105,239,135,2024-06-05,COVID-19,Follow-up,43655.14
+106,241,1,2023-10-08,Hypertension,Surgery,47923.0
+107,227,160,2024-01-05,Flu,Therapy,640.74
+108,140,143,2024-11-18,Fracture,Follow-up,2657.27
+109,157,82,2025-05-26,Allergy,Follow-up,18749.87
+110,171,3,2025-03-18,Asthma,Medication,36770.56
+111,195,164,2024-10-07,Hypertension,Medication,3576.22
+112,190,200,2022-10-10,Asthma,Lifestyle Change,34720.95
+113,32,93,2022-09-28,Allergy,Lifestyle Change,11598.74
+114,153,46,2025-06-22,Hypertension,Lifestyle Change,38342.08
+115,223,72,2023-11-18,COVID-19,Therapy,19585.05
+116,203,47,2023-09-16,Skin Rash,Medication,35729.44
+117,244,149,2023-07-30,Diabetes,Lifestyle Change,46443.82
+118,75,5,2024-02-24,Allergy,Medication,18301.98
+119,21,179,2024-12-09,Skin Rash,Surgery,26846.39
+120,100,153,2024-12-12,Flu,Lifestyle Change,11168.22
+121,64,194,2022-10-08,Asthma,Therapy,23426.9
+122,208,39,2024-06-06,COVID-19,Therapy,24686.33
+123,10,26,2024-05-23,Diabetes,Surgery,18901.11
+124,231,29,2023-12-24,Allergy,Follow-up,41367.76
+125,230,52,2024-02-24,Skin Rash,Medication,11429.01
+126,172,98,2025-03-31,Skin Rash,Medication,46382.9
+127,213,77,2025-08-26,Flu,Follow-up,15593.79
+128,136,16,2025-06-20,Hypertension,Lifestyle Change,48562.92
+129,151,106,2025-09-10,Allergy,Surgery,3411.1
+130,15,69,2024-11-11,Flu,Lifestyle Change,42110.96
+131,244,116,2025-07-28,Diabetes,Medication,37824.33
+132,219,141,2023-06-04,Skin Rash,Surgery,16478.1
+133,63,22,2022-12-15,Asthma,Lifestyle Change,16845.34
+134,78,10,2025-07-24,Allergy,Therapy,34694.61
+135,195,164,2023-04-12,Diabetes,Medication,48909.97
+136,78,54,2022-12-07,Diabetes,Follow-up,38316.95
+137,250,108,2023-09-16,Flu,Lifestyle Change,48941.12
+138,129,80,2025-04-03,Fracture,Surgery,10831.0
+139,242,83,2024-03-09,Flu,Lifestyle Change,5939.45
+140,14,12,2024-12-18,Flu,Follow-up,16729.3
+141,125,132,2024-08-13,Asthma,Lifestyle Change,14192.82
+142,56,156,2024-09-03,COVID-19,Therapy,41098.46
+143,100,58,2024-09-23,Diabetes,Medication,21219.78
+144,144,137,2025-07-22,Fracture,Therapy,28632.89
+145,197,58,2024-04-14,Diabetes,Medication,20907.5
+146,47,112,2022-10-28,Flu,Surgery,15236.11
+147,180,163,2024-02-01,Skin Rash,Therapy,38823.47
+148,156,199,2023-03-20,Hypertension,Follow-up,45029.97
+149,48,113,2023-08-24,Allergy,Follow-up,48385.15
+150,216,43,2024-07-23,Hypertension,Therapy,4373.36
+151,87,36,2025-08-06,Asthma,Lifestyle Change,39243.94
+152,140,69,2024-10-12,Hypertension,Follow-up,23462.25
+153,175,64,2023-05-01,Diabetes,Follow-up,39853.18
+154,32,133,2024-07-23,Asthma,Therapy,26844.87
+155,78,76,2023-03-17,Flu,Surgery,36778.82
+156,35,115,2023-07-16,Asthma,Medication,40061.62
+157,18,143,2023-05-04,Asthma,Medication,20202.08
+158,181,96,2025-09-08,COVID-19,Lifestyle Change,30626.32
+159,141,183,2024-01-19,COVID-19,Therapy,46809.77
+160,97,51,2023-12-21,Allergy,Surgery,23793.59
+161,70,52,2024-05-05,Skin Rash,Lifestyle Change,46403.28
+162,248,160,2024-05-28,Asthma,Therapy,19875.58
+163,11,48,2022-10-25,Diabetes,Lifestyle Change,33595.29
+164,81,120,2023-02-10,COVID-19,Lifestyle Change,21346.36
+165,195,44,2024-01-18,Asthma,Surgery,19179.51
+166,224,52,2023-05-28,Allergy,Medication,963.09
+167,2,53,2025-05-27,Skin Rash,Lifestyle Change,16253.4
+168,174,180,2024-07-06,Skin Rash,Follow-up,45924.73
+169,243,58,2025-08-22,Flu,Therapy,6630.12
+170,128,163,2022-09-14,Allergy,Surgery,47942.31
+171,38,72,2024-02-21,Hypertension,Therapy,43102.97
+172,215,56,2024-09-08,COVID-19,Medication,14930.69
+173,150,153,2023-09-19,Fracture,Surgery,49628.42
+174,238,144,2023-11-24,Asthma,Lifestyle Change,43658.32
+175,110,91,2024-05-06,Hypertension,Surgery,21257.76
+176,98,169,2023-04-19,Asthma,Follow-up,12415.48
+177,47,160,2023-08-27,COVID-19,Medication,1953.3
+178,17,46,2023-09-14,Flu,Surgery,24828.77
+179,212,180,2024-07-24,COVID-19,Follow-up,38752.39
+180,65,155,2025-02-13,Allergy,Lifestyle Change,11845.58
+181,208,126,2023-07-29,COVID-19,Lifestyle Change,34214.79
+182,165,26,2024-05-25,Skin Rash,Therapy,27182.05
+183,78,39,2024-08-16,Flu,Surgery,29517.44
+184,204,26,2023-09-08,Fracture,Lifestyle Change,41589.8
+185,34,181,2024-02-25,Skin Rash,Follow-up,35750.06
+186,22,44,2023-10-11,Skin Rash,Surgery,29541.77
+187,191,97,2024-04-16,Allergy,Surgery,1281.62
+188,214,67,2023-06-27,Asthma,Follow-up,45357.44
+189,3,174,2025-01-08,Allergy,Therapy,26938.41
+190,120,85,2022-10-15,Skin Rash,Lifestyle Change,33617.66
+191,83,5,2022-12-14,COVID-19,Follow-up,20311.3
+192,225,177,2023-11-17,Flu,Surgery,31223.13
+193,4,75,2023-07-24,Hypertension,Therapy,23324.91
+194,32,112,2024-07-05,Asthma,Follow-up,33409.86
+195,224,122,2023-12-22,Diabetes,Follow-up,49395.47
+196,153,110,2024-10-28,Fracture,Medication,32375.45
+197,139,10,2025-09-02,COVID-19,Follow-up,25231.34
+198,240,5,2023-12-13,Diabetes,Therapy,41732.91
+199,133,141,2023-11-01,COVID-19,Medication,10670.62
+200,28,147,2024-02-19,Fracture,Surgery,33056.84
+201,176,10,2023-11-05,Skin Rash,Therapy,7941.2
+202,55,62,2024-07-16,Hypertension,Follow-up,8243.78
+203,38,16,2025-05-25,Hypertension,Follow-up,33724.17
+204,90,28,2024-01-31,Skin Rash,Lifestyle Change,49671.0
+205,27,158,2024-07-27,Allergy,Follow-up,13095.02
+206,169,154,2024-06-29,Skin Rash,Medication,45242.3
+207,148,17,2025-06-06,COVID-19,Follow-up,48123.14
+208,71,106,2025-01-28,Allergy,Surgery,8400.64
+209,25,139,2025-08-31,Flu,Therapy,24217.45
+210,180,61,2025-09-07,Diabetes,Lifestyle Change,13390.79
+211,185,30,2023-09-11,Diabetes,Medication,24447.18
+212,33,18,2022-11-25,COVID-19,Lifestyle Change,13240.67
+213,169,141,2025-07-06,Skin Rash,Lifestyle Change,16539.78
+214,54,130,2024-05-26,Hypertension,Medication,40296.54
+215,122,88,2025-08-17,Flu,Medication,11771.05
+216,216,187,2023-08-12,Hypertension,Therapy,15231.06
+217,136,114,2024-05-03,Diabetes,Follow-up,32389.7
+218,217,95,2025-01-23,Skin Rash,Lifestyle Change,4940.93
+219,148,189,2024-03-22,Asthma,Follow-up,27551.11
+220,45,116,2024-12-18,Flu,Follow-up,15660.86
+221,45,199,2024-01-09,Asthma,Surgery,11593.64
+222,93,59,2025-02-07,Fracture,Surgery,1383.26
+223,220,160,2025-02-19,Diabetes,Lifestyle Change,33413.93
+224,192,147,2022-11-22,COVID-19,Follow-up,48623.85
+225,11,82,2022-12-16,Skin Rash,Medication,43914.07
+226,158,67,2023-05-20,Hypertension,Therapy,38217.17
+227,85,8,2023-12-03,Asthma,Follow-up,33362.6
+228,11,164,2024-06-07,COVID-19,Surgery,21894.91
+229,175,85,2023-01-08,Fracture,Therapy,25351.83
+230,154,200,2023-12-16,Hypertension,Lifestyle Change,10905.62
+231,154,114,2025-08-15,Diabetes,Surgery,33233.14
+232,142,26,2023-09-12,Diabetes,Therapy,37947.51
+233,229,172,2024-11-29,Allergy,Surgery,27804.09
+234,240,79,2023-04-09,Fracture,Medication,7905.69
+235,96,80,2024-05-01,Diabetes,Lifestyle Change,3906.27
+236,226,3,2023-05-16,Allergy,Medication,10310.26
+237,209,170,2025-05-17,Diabetes,Therapy,10562.88
+238,17,69,2024-01-14,COVID-19,Lifestyle Change,17581.65
+239,127,18,2023-11-03,Diabetes,Therapy,24774.93
+240,31,27,2023-06-03,Allergy,Follow-up,22900.42
+241,237,73,2023-11-03,Fracture,Lifestyle Change,15436.75
+242,100,173,2022-10-28,Fracture,Surgery,46244.79
+243,229,151,2024-03-13,Flu,Medication,32887.49
+244,33,162,2023-06-02,Flu,Lifestyle Change,22579.54
+245,22,156,2025-07-27,Asthma,Follow-up,10680.57
+246,2,84,2023-03-23,Fracture,Follow-up,20722.91
+247,171,113,2023-11-11,Hypertension,Follow-up,29287.1
+248,22,69,2023-05-28,Asthma,Lifestyle Change,22836.09
+249,53,57,2023-09-09,Diabetes,Therapy,5164.38
+250,248,88,2024-05-16,Asthma,Medication,45936.31
+251,208,39,2025-03-06,COVID-19,Lifestyle Change,12019.79
+252,209,165,2024-08-21,COVID-19,Medication,41349.67
+253,36,66,2024-09-15,Flu,Lifestyle Change,5914.32
+254,151,35,2024-09-07,Flu,Medication,41764.23
+255,122,174,2023-02-15,COVID-19,Follow-up,38592.55
+256,117,92,2023-03-13,Fracture,Surgery,42816.72
+257,42,98,2024-07-08,Skin Rash,Lifestyle Change,24028.1
+258,23,141,2023-10-02,Diabetes,Surgery,42067.06
+259,195,49,2025-06-07,Diabetes,Medication,27639.47
+260,198,192,2025-01-03,Skin Rash,Follow-up,31238.35
+261,121,16,2022-09-30,COVID-19,Follow-up,19190.5
+262,147,168,2025-08-07,Asthma,Medication,36675.91
+263,112,18,2025-05-12,Skin Rash,Therapy,34252.17
+264,223,137,2025-05-23,Asthma,Medication,11967.36
+265,162,15,2023-11-08,Fracture,Medication,8353.24
+266,26,57,2025-05-20,Diabetes,Lifestyle Change,13353.21
+267,181,79,2023-11-22,COVID-19,Therapy,28882.74
+268,101,3,2023-08-23,Hypertension,Therapy,13951.47
+269,37,9,2022-09-25,Allergy,Surgery,29062.77
+270,186,168,2022-10-21,COVID-19,Medication,4834.82
+271,58,25,2024-01-06,Hypertension,Medication,20367.77
+272,88,199,2023-02-25,Asthma,Follow-up,7584.02
+273,220,30,2024-07-15,Fracture,Lifestyle Change,15830.39
+274,28,28,2023-12-13,Allergy,Medication,2512.94
+275,196,49,2023-05-07,Fracture,Therapy,24860.27
+276,150,167,2023-07-23,Asthma,Lifestyle Change,47404.59
+277,232,28,2023-05-21,Asthma,Follow-up,24517.08
+278,12,178,2025-08-22,Diabetes,Lifestyle Change,43112.67
+279,71,69,2024-01-19,Skin Rash,Therapy,16179.59
+280,141,16,2025-02-23,COVID-19,Follow-up,5717.73
+281,127,186,2022-11-07,Allergy,Medication,23532.36
+282,213,191,2023-10-24,Asthma,Follow-up,17330.39
+283,138,78,2022-12-14,Hypertension,Surgery,7780.72
+284,15,72,2025-02-26,Fracture,Medication,41890.91
+285,55,142,2023-05-12,Asthma,Therapy,19160.99
+286,213,38,2024-09-12,Hypertension,Medication,7419.65
+287,206,63,2025-02-03,Asthma,Medication,23713.27
+288,164,77,2024-12-02,Hypertension,Surgery,22329.27
+289,234,110,2024-12-09,Asthma,Therapy,41455.82
+290,191,13,2024-03-03,Allergy,Therapy,28106.31
+291,151,35,2025-05-10,Flu,Surgery,20622.78
+292,232,136,2024-05-11,Hypertension,Therapy,27134.47
+293,179,23,2022-11-01,Asthma,Therapy,7997.54
+294,210,66,2024-12-04,Allergy,Follow-up,31176.74
+295,22,170,2024-01-04,Hypertension,Follow-up,30616.16
+296,86,55,2024-09-10,Allergy,Therapy,3283.72
+297,37,1,2025-04-09,Flu,Follow-up,8480.91
+298,61,5,2023-03-05,Asthma,Therapy,11019.85
+299,250,24,2023-06-27,Hypertension,Lifestyle Change,23308.19
+300,136,119,2024-06-19,Asthma,Lifestyle Change,39124.02
