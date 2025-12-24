@@ -5,7 +5,6 @@ use healthcare_analytics;
 SELECT * FROM patients LIMIT 10;
 
 -- 2. Retrieve the full names of the first 20 patients, ordered by last name.
--- Note: This uses the '||' operator, common in PostgreSQL/SQLite. For MySQL, use CONCAT(first_name, ' ', last_name).
 SELECT 
     patient_id, 
     CONCAT(first_name, ' ', last_name) AS full_name
