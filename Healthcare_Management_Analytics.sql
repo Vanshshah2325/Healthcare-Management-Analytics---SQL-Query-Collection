@@ -1,4 +1,5 @@
-create schema ftn_141_to_280;
+create schema healthcare_analytics;
+use healthcare_analytics;
 
 -- 1. Show the first 10 rows from the patients table.
 SELECT * FROM patients LIMIT 10;
